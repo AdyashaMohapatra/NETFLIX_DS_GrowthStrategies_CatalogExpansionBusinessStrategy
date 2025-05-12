@@ -1,10 +1,11 @@
 **#NETFLIX Growth Strategies Exploring New Content Genres 🎥**
 ---
 
-##Project Goal : To analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
+Project Goal : To analyze the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries.
 ---
 
-##Opportunity Analysis & Discovery : The Project answers key questions below that help with product discovery
+Opportunity Analysis & Discovery : 
+The Project answers key questions below that help with business growth strategy
 ---
 
 🧠
