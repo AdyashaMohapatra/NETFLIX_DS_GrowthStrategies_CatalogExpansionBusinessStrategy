@@ -4,7 +4,7 @@ Project Goal : To analyze the data and generate insights that could help Netflix
 
 Opportunity Analysis & Discovery : The Project answers key questions below that help with product discovery
 
-1.What type of content is available in different countries?
+1.What type of content is available in different countries? 
 2.How has the number of movies released per year changed over the last 20-30 years?
 3.Comparison of tv shows vs. movies.
 4.What is the best time to launch a TV show?
