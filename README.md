@@ -1,4 +1,5 @@
 **Netflix Growth Strategies Exploring New Content Genres 🎥**
+---
 
 This project is independently created using publicly available data. It is not affiliated with or endorsed by Netflix
 
